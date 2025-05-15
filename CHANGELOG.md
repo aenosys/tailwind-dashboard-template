@@ -47,8 +47,4 @@
 - Remove Craco
 - Update dependencies
 
-## [1.2.0] - 2021-12-13
-
-- Update Tailwind 3
-- Several improvements
 
