@@ -25,8 +25,3 @@
 
 - Update dependencies
 - Improve sidebar icons color logic
-
-## [1.7.0] - 2022-08-30
-
-- Update sidebar
-- Fix mobile menu issue
