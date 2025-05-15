@@ -36,8 +36,3 @@
 - Replace Sass with CSS files
 - Update dependencies
 - Update React to v18
-
-## [1.3.1] - 2022-01-27
-
-- Fix tailwind.config.js file
-
