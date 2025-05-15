@@ -58,8 +58,3 @@
 
 - Alignment issue
 
-## [1.1.0] - 2021-11-15
-
-- Update dependencies
-- Enable Tailwind JIT
-- Add expandable / collapsible sidebar feature
