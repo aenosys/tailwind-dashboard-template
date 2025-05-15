@@ -41,10 +41,3 @@
 
 - Fix tailwind.config.js file
 
-## [1.3.0] - 2022-01-25
-
-- Replace CRA (Create React App) with Vite
-- Remove Craco
-- Update dependencies
-
-
