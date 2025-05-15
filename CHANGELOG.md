@@ -52,9 +52,3 @@
 - Update Tailwind 3
 - Several improvements
 
-## [1.1.1] - 2021-11-23
-
-- Alignment issue## [1.1.1] - 2021-11-23
-
-- Alignment issue
-
